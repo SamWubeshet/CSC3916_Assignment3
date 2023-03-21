@@ -36,7 +36,7 @@ Create a collection in MongoDB to hold information about movies
 - PostMan test collection that 
     - Signs Up a user (create a random user name and random password in your pre-test)
     - SignIn a User – parse token and store in postman environment variable
-    - A separate call for each endpoint (save a movie, update a movie, delete a movie and get a movie)
+    - A separate call for each endpoint (save a movie, update a movie, delete a movie and get movie)
     - Test error conditions (user already exists)
         - SignUp (user already exist)
         - Save Movie (missing information like actors (must be at least three), title, year or Genre)
